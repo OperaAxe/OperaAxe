@@ -70,10 +70,10 @@ I'm building deeper automation experience with **Python, Playwright, pytest, Typ
 
 <div align="center">
   <a href="https://github.com/OperaAxe?tab=repositories">
-    <img width="49%" src="./profile/stats.svg" alt="GitHub statistics card" />
+    <img width="49%" src="./profile/github-stats.svg" alt="GitHub statistics card" />
   </a>
   <a href="https://github.com/OperaAxe?tab=repositories">
-    <img width="49%" src="./profile/top-langs.svg" alt="Most used languages card" />
+    <img width="49%" src="./profile/top-languages.svg" alt="Most used languages card" />
   </a>
 </div>
 
