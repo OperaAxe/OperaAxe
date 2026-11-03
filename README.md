@@ -69,10 +69,15 @@ I'm building deeper automation experience with **Python, Playwright, pytest, Typ
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OperaAxe&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OperaAxe&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-  <img height="165" src="https://streak-stats.demolab.com?user=OperaAxe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <a href="https://github.com/OperaAxe?tab=repositories">
+    <img width="49%" src="./profile/stats.svg" alt="GitHub statistics card" />
+  </a>
+  <a href="https://github.com/OperaAxe?tab=repositories">
+    <img width="49%" src="./profile/top-langs.svg" alt="Most used languages card" />
+  </a>
 </div>
+
+<sub>These cards are generated and committed to this repository by GitHub Actions every day. They are served as local files, not fetched from a third-party image host.</sub>
 
 ## 📬 Let's connect
 
