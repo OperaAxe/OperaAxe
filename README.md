@@ -52,6 +52,7 @@ I'm building deeper automation experience with **Python, Playwright, pytest, Typ
 |:--|:--|
 | [**Manual QA → Automation**](https://github.com/OperaAxe/Manual---Automation-Portfolio) | Main QA portfolio: manual test planning, 30 DemoQA scenarios, a defect log, evidence notes, and a small local Playwright suite. |
 | [**Sauce Demo Shopify — E2E**](https://github.com/OperaAxe/saucedemo-playwright-automation) | Python browser tests for account entry points, catalogue and product pages, cart behaviour, responsive layouts, and the safe checkout boundary. |
+| [**OrangeHRM — Playwright Automation**](https://github.com/OperaAxe/orangehrm-playwright-automation) | Python and Playwright smoke tests for login, dashboard navigation, and employee-directory autocomplete/search, with GitHub Actions CI. |
 | [**Playwright + TypeScript**](https://github.com/OperaAxe/qa-technical-portfolio) | A separate TypeScript suite covering login, inventory, and cart behaviour on a public training application. |
 | [**QualiFi — AI Agent Evaluation**](https://github.com/OperaAxe/qualifi-ai-agent-evaluation-harness) | A local harness checking tool choice, arguments, task completion, state integrity, recovery, and regression using deterministic fixtures. |
 | [**QualiFi — Tenant Isolation**](https://github.com/OperaAxe/qualifi-tenant-isolation-assurance) | Regression checks for cross-tenant access, role restrictions, and side effects in a fictional SaaS API using synthetic data. |
