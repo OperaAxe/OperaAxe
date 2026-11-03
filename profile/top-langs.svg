@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages card is being generated</title>
+  <desc id="desc">A local placeholder that will be replaced by the GitHub Actions top languages workflow.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a1b27"/><stop offset="1" stop-color="#142b40"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+  <rect x="1" y="1" width="493" height="178" rx="14" fill="url(#bg)" stroke="#36506e"/>
+  <rect x="24" y="25" width="5" height="130" rx="2.5" fill="url(#accent)"/>
+  <text x="47" y="52" fill="#7dd3fc" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">TOP LANGUAGES</text>
+  <text x="47" y="91" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Language breakdown is being prepared</text>
+  <text x="47" y="119" fill="#bae6fd" font-family="Segoe UI,Arial,sans-serif" font-size="13">The card will be generated from your public</text>
+  <text x="47" y="139" fill="#bae6fd" font-family="Segoe UI,Arial,sans-serif" font-size="13">GitHub repositories by the scheduled workflow.</text>
+  <circle cx="450" cy="42" r="8" fill="#f472b6"/><circle cx="470" cy="42" r="8" fill="#38bdf8"/>
+</svg>
